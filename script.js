@@ -46,12 +46,7 @@ $(document).ready(function(){
           }
         });
         // temperature toggle button end
-        
-        // Console Logs
-        console.log(city);
-        console.log(celsius);
-        console.log(fahrenheit);
-        console.log(weatherImage);
+      
       });                                          
     });
   }
