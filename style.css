@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+body {
+  background-color: #ABB7B7;
+  font-family: 'Ubuntu', sans-serif;
+  color: black;
+}
+
+h1 {
+  font-size: 72px;
+}
+
+.information-city {
+  font-size: 36px;
+}
+
+.information-weather {
+  font-size: 24px;
+}
+
+.information-temperature {
+  font-size: 24px;
+}
+
+.tempUnit {
+  cursor: pointer;
+  font-size: 24px;
+  color:#006dcc;
+}
+
+.tempUnit:hover{
+  color:#005096;
+}
